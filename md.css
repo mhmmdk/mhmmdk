@@ -1,1 +1,62 @@
 
+/************
+*  General  *
+*************/
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0 7%;
+  text-align: center;
+}
+
+/**************
+*    tags     *
+**************/
+
+/* TypoGraphy */
+
+h1,
+h2,
+h3,
+h4 {
+  color: gray;
+  font-family: serif;
+}
+
+p {
+  font: 12px/3px arial, sans-serif;
+}
+
+b {
+  color: silver;
+}
+
+/* Non-typo */
+
+a {
+  color: black;
+  font: 900 13px serif;
+  text-decoration: none;
+}
+
+/* Events */
+
+a:hover {
+  color: darkblue;
+}
+
+/***************
+*   Non-Tag    *
+****************/
+
+/* class */
+
+.title {
+  color: darkgray;
+}
