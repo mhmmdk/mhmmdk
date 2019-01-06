@@ -3,14 +3,13 @@
 *  General  *
 *************/
 
-html {
+html,
+body {
   height: 100%;
   width: 100%;
 }
 
 body {
-  height: 100%;
-  padding: 0 7%;
   text-align: center;
 }
 
