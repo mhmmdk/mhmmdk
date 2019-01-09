@@ -1,0 +1,16 @@
+    HTML, body {
+        height: 100%;
+        margin: 0;
+    }
+    body {
+        padding: 0 21%;
+        background-color: #f0f0f0;
+        font-family: "../CONSOLA";
+        letter-spacing: -0.7px;
+    }
+    .page {
+        padding: 8px 3px;
+        box-shadow: -2px 8px 8px #888888;
+        background-color: #fff;
+        min-width: 777px;
+    }
