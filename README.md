@@ -10,7 +10,7 @@
 
 ## TO READ
 
-- [ ] <a href=""></a>
-- [ ] <a href=""></a>
+- [ ] <a href="https://jekyllrb.com/">jekll</a>
+- [ ] <a href="https://github.com/github/government.github.com">Interactive page on github</a>
 - [ ] <a href=""></a>
 - [ ] <a href=""></a>
