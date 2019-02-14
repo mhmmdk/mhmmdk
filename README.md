@@ -10,7 +10,8 @@
 
 ## TO READ
 
+- [ ] <a href="https://pages.github.com/">Github page</a>
+- [ ] <a href="https://help.github.com/articles/what-is-github-pages/">Github page help</a>
 - [ ] <a href="https://jekyllrb.com/">jekll</a>
 - [ ] <a href="https://github.com/github/government.github.com">Interactive page on github</a>
-- [ ] <a href=""></a>
 - [ ] <a href=""></a>
