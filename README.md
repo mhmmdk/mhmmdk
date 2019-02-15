@@ -17,11 +17,17 @@
   - [ ] Putting shade important message on it
   - [ ] Overflow bkg
   </details>
-- [ ] <span >Adding events<details style="display:inline"><summary>Event's look</summary>
+- [ ] <span >Adding events<details><summary>Event: Books, Concert, Festival, Meeting, ...</summary>
   - [ ] Flowing event advertising
   - [ ] Down counter
   - [ ] Closing btn and replacing it
   </details></span>
+ - [ ] Literature/Ogbarruu
+      - [ ] Asoosama
+      - [ ] Oromo folks (& Sheeko)
+      - [ ] Hibboo
+      - [ ] Baacoo
+      - [ ] Mammaaksa
  - [ ] Biography of Artists
         <details><summary>Featuring Famous and newbie</summary>
     - [ ] <span>Pinning with 
