@@ -23,7 +23,7 @@
   - [ ] Closing btn and replacing it
   </details></span>
  - [ ] Literature/Ogbarruu
-            <details><summary>Writing/compiling</summary>
+         <details><summary>Writing/compiling</summary>
       - [ ] Asoosama
       - [ ] Oromo folks (& Sheeko)
       - [ ] Hibboo
