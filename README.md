@@ -23,11 +23,12 @@
   - [ ] Closing btn and replacing it
   </details></span>
  - [ ] Literature/Ogbarruu
+      <details><summary>Writing/compiling</summary>
       - [ ] Asoosama
       - [ ] Oromo folks (& Sheeko)
       - [ ] Hibboo
       - [ ] Baacoo
-      - [ ] Mammaaksa
+      - [ ] Mammaaksa</details>
  - [ ] Biography of Artists
         <details><summary>Featuring Famous and newbie</summary>
     - [ ] <span>Pinning with 
