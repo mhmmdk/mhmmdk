@@ -1,6 +1,6 @@
 # Hosting on Github page
 
-## TODO
+## Objective
 - [x] create working static page
 - [ ] Fast improved page
 - [ ] Interactive page
@@ -8,6 +8,27 @@
 - [ ] Using api page
 - [ ] <b>Useful page</b>
 
+## TODO
+- [ ] Branding Header
+- [ ] Branding Footer
+- [ ] Video cultural advertising
+      <details><summary>Home featuring</summary>
+  - [ ] Background video or thumbnails
+  - [ ] Putting shade important message on it
+  - [ ] Overflow bkg
+  </details>
+- [ ] <span >Adding events<details style="display:inline"><summary>Event's look</summary>
+  - [ ] Flowing event advertising
+  - [ ] Down counter
+  - [ ] Closing btn and replacing it
+  </details></span>
+ - [ ] Biography of Artists
+        <details><summary>Featuring Famous and newbie</summary>
+    - [ ] <span>Pinning with 
+        - the first paragraph
+        - pic
+        - read more nav</span></details>
+  
 ## TO READ
 
 - [ ] <a href="https://pages.github.com/">Github page</a>
