@@ -22,19 +22,17 @@
   - [ ] Down counter
   - [ ] Closing btn and replacing it
   </details></span>
-- [ ] Biography of Artists
-        <details><span><summary>Featuring Famous and newbie</summary>
-    - [ ] Pinning with 
-        - the first paragraph
-        - pic
-        - read more nav</span></details>
- - [ ] Literature/Ogbarruu
-         <details><span><summary>Writing/compiling</summary>
+- [ ] <span>Biography of Artists <details><summary>Featuring Famous and newbie</summary>
+      - [ ] Pinning with 
+            - the first paragraph
+            - pic
+            - read more nav</details></span>
+ - [ ] <span>Literature/Ogbarruu <details><summary>Writing/compiling</summary>
       - [ ] Asoosama
       - [ ] Oromo folks (& Sheeko)
       - [ ] Hibboo
       - [ ] Baacoo
-      - [ ] Mammaaksa</span></details>
+      - [ ] Mammaaksa</details>
 
   
 ## TO READ
