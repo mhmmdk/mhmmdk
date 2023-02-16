@@ -1,44 +1,13 @@
-# Hosting on Github page
+# Hello World, I'm Mohammed Kassahun!
 
-## Objective
-- [x] create working static page
-- [ ] Fast improved page
-- [ ] Interactive page
-- [ ] Making dynimic page
-- [ ] Using api page
-- [ ] <b>Useful page</b>
+```{python}
+def mohammed_kassahun():
+      expereince = 'I have worked at INSA as a pentester and web application developer since 2018.'
 
-## TODO
-- [ ] Branding Header
-- [ ] Branding Footer
-- [ ] Video cultural advertising
-      <details><summary>Home featuring</summary>
-  - [ ] Background video or thumbnails
-  - [ ] Putting shade important message on it
-  - [ ] Overflow bkg
-  </details>
-- [ ] <span >Adding events<details><summary>Event: Books, Concert, Festival, Meeting, ...</summary>
-  - [ ] Flowing event advertising
-  - [ ] Down counter
-  - [ ] Closing btn and replacing it
-  </details></span>
-- [ ] <span>Biography of Artists <details><summary>Featuring Famous and newbie</summary>
-      - [ ] Pinning with 
-            - the first paragraph
-            - pic
-            - read more nav</details></span>
- - [ ] <span>Literature/Ogbarruu <details><summary>Writing/compiling</summary>
-      - [ ] Asoosama
-      - [ ] Oromo folks (& Sheeko)
-      - [ ] Hibboo
-      - [ ] Baacoo
-      - [ ] Mammaaksa</details>
+      skills = ['python', 'HTML', 'nodejs', 'reactjs', 'css']
 
-  
-## TO READ
+      compitition = 'I have participated in Project Euler challenges and Code Jam competitions.'
 
-- [ ] <a href="https://pages.github.com/">Github page</a>
-- [ ] <a href="https://help.github.com/articles/what-is-github-pages/">Github page help</a>
-- [ ] <a href="https://jekyllrb.com/">jekll</a>
-- [ ] <a href="https://github.com/github/government.github.com">Interactive page on github</a>
-- [ ] <a href=""></a>
+      return 'Full stack developer and Pentester'
+```
+
